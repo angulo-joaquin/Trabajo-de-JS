@@ -12,4 +12,8 @@ console.log(nombre3);
 //#region
 var inicio = [0];
 var fin = [10];
+
+for ( inicio of fin){
+    inicio++;
+}
 //#endregion
