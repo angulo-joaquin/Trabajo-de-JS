@@ -10,5 +10,5 @@ console.log(nombre3);
 //#endregion
 
 //#region
-
+var inicio = [0];
 //#endregion
