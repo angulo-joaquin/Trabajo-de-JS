@@ -5,3 +5,4 @@ let nombre2 = 'maximiliano';
 console.log(nombre2);
 
 const nombre3 = `franco`;
+console.log(nombre3);
