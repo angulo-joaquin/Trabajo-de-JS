@@ -17,3 +17,8 @@ for ( inicio of fin){
     inicio++;
 }
 //#endregion
+
+//#consoles 
+
+
+//#endregion
