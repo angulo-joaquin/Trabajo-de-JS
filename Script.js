@@ -22,4 +22,5 @@ console.log(nombre2);
 
 console.log(nombre3);
 
+console.log(inicio);
 //#endregion
