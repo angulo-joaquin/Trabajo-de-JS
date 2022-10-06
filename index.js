@@ -10,7 +10,7 @@ console.log(nombre3);
 //#endregion
 
 //#region
-var inicio = [0];
+var inicio = 0;
 var arrayfin = [10];
 
 for ( inicio of fin){
