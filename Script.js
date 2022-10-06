@@ -10,8 +10,8 @@ const nombre3 = `franco`;
 var inicio = 0;
 var arrayfin = [10];
 
-for ( inicio of fin){
-    inicio++;
+for ( inicio of arrayfin){
+    inicio+1;
 }
 //#endregion
 
