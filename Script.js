@@ -2,7 +2,6 @@
 var nombre = "xiara";
 
 let nombre2 = 'maximiliano';
-console.log(nombre2);
 
 const nombre3 = `franco`;
 console.log(nombre3);
@@ -19,5 +18,7 @@ for ( inicio of fin){
 
 //#consoles 
 console.log(nombre);
+
+console.log(nombre2);
 
 //#endregion
